@@ -1,0 +1,3 @@
+> Neste curso utilizamos uma função, chamada require(), que é bem presente no Node.js . Esta função nos permitiu passar o caminho de um arquivo terminado em .json para obter o conteúdo de um arquivo do tipo JSON. Em cursos posteriores, iremos ver que essa função também pode ser utilizada para reaproveitar códigos que estão em outros arquivos, também chamados de módulos.
+
+> Nesta aula aprendemos sobre o formato JSON. Vimos o que motivou sua existência, como é sua sintaxe e de que modo podemos utilizar esse formato, como por exemplo, armazenando um objeto em um arquivo.
